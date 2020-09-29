@@ -1,7 +1,6 @@
 Image Steganography by Nofet_Malca
 ===================
-//A sweeping extension was granted for the submission of the project
-//Until 12.08.2020 see the forum written by Lecturer Bays.
+
 
 System-based program for Image Steganography using C++ in Environment-Visual Studio. 
 The program performs steganography Encrypt & Decrypt password to / from an image,
