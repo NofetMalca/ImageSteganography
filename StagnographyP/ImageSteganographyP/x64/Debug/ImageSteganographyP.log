@@ -1,0 +1,19 @@
+﻿  conversion.cpp
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\conversion.cpp(34,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\conversion.cpp(46,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\conversion.cpp(57,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\conversion.cpp(63,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\conversion.cpp(73,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\conversion.cpp(84,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  crypto.cpp
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\crypto.cpp(11,36): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\crypto.cpp(11,42): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\crypto.cpp(11,36): warning C4309: 'initializing': truncation of constant value
+  ImgSteganogrAphyP.cpp
+  main.cpp
+  PasswordStreng.cpp
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\PasswordStreng.cpp(5,116): warning C4305: 'initializing': truncation from 'int' to 'bool'
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\PasswordStreng.cpp(13,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Moshe\Desktop\MiniProject_Stagnography\ImageSteganographyP\PasswordStreng.cpp(166): warning C4715: 'PasswordStrength::printStrongPass': not all control paths return a value
+  ImageSteganographyP.vcxproj -> C:\Users\Moshe\Desktop\MiniProject_Stagnography\x64\Debug\ImageSteganographyP.exe
